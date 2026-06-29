@@ -32,7 +32,7 @@ export default function Admin() {
 
         {status === 'login' && (
           <form className="acard" onSubmit={login}>
-            <div className="abrand">BEN<span>.</span>DAVIS</div>
+            <div className="abrand">CUSTOM COOKIES BY JILL<span>.</span></div>
             <h1>Site editor</h1>
             <p className="amuted">Log in to edit your website.</p>
             {!configured && <p className="awarn">Setup isn’t finished yet (the password or save-key env vars are missing on Vercel). See your onboarding guide, then redeploy.</p>}
@@ -44,7 +44,7 @@ export default function Admin() {
 
         {status === 'in' && (
           <div className="acard">
-            <div className="abrand">BEN<span>.</span>DAVIS</div>
+            <div className="abrand">CUSTOM COOKIES BY JILL<span>.</span></div>
             <h1>You’re in ✅</h1>
             <p className="amuted">Now go to your site and look for the <b>✏️ Edit site</b> button in the bottom-right corner. Click it to turn on Edit Mode, then:</p>
             <ul className="alist">

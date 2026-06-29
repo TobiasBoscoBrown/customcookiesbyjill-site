@@ -67,7 +67,7 @@ export default function Quick() {
     <div className="q">
       <style>{CSS}</style>
       <div className="qbar">
-        <div className="qbrand">BEN<span>.</span>DAVIS <small>quick edits</small></div>
+        <div className="qbrand">CUSTOM COOKIES BY JILL<span>.</span> <small>quick edits</small></div>
         <div className="qactions">
           <a className="qbtn ghost" href="/">Back to site</a>
           {status === 'in' && <button className="qbtn save" disabled={busy || !dirty} onClick={save}>{busy ? 'Saving...' : dirty ? 'Save' : 'Saved'}</button>}
