@@ -1,0 +1,138 @@
+{
+  "site": {
+    "brand": "Custom Cookies by Jill",
+    "title": "Custom Cookies by Jill | Custom Decorated Cookies in Chicago",
+    "description": "Custom decorated cookies handcrafted in the Chicago area by Jill. Corporate logo cookies, edible photo prints, and celebration cookies, shipped nationwide.",
+    "domain": "customcookiesbyjill-site.vercel.app",
+    "email": "customcookiesbyjill@gmail.com"
+  },
+  "social": {
+    "instagram": "https://www.instagram.com/customcookiesbyjill/",
+    "tiktok": "",
+    "youtube": "",
+    "snapchat": "",
+    "shopmy": "",
+    "cashapp": "",
+    "venmo": "",
+    "paypal": "",
+    "wishlist": ""
+  },
+  "stats": [
+    { "n": "40K+", "l": "INSTAGRAM FAMILY" },
+    { "n": "2020", "l": "BAKING SINCE" },
+    { "n": "USA", "l": "SHIPS NATIONWIDE" },
+    { "n": "100%", "l": "MADE TO ORDER" }
+  ],
+  "marquee": [
+    "Corporate Logo Cookies",
+    "Edible Photo Prints",
+    "Birthdays",
+    "Weddings & Showers",
+    "Chicago Made",
+    "Ships Nationwide",
+    "Fully Custom"
+  ],
+  "home": {
+    "kicker": "CHICAGO • SHIPS NATIONWIDE",
+    "h1line1": "CUSTOM",
+    "h1line2": "COOKIES",
+    "sub_bold": "Handcrafted, fully custom cookies for your special occasion.",
+    "sub_rest": "From corporate logo cookies to birthday photo prints, designed and baked by Jill in the Chicago area and shipped across the country.",
+    "portrait": "/assets/hero.jpg",
+    "portraitTag": "FRESH",
+    "portraitTagSub": "BAKED TO ORDER",
+    "primaryCtaLabel": "Request a Quote",
+    "ghostCtaLabel": "See the Cookies",
+    "workEyebrow": "WHAT I MAKE",
+    "workTitle": "COOKIES FOR EVERY MOMENT",
+    "blocks": []
+  },
+  "pages": {
+    "modeling": {
+      "nav": "Cookies",
+      "eyebrow": "WHAT I MAKE",
+      "title": "THE COOKIES",
+      "intro": "Every cookie is made to order and designed around your idea. The house specialty is printed cookies: sharp, full color edible images on a buttery sugar cookie, perfect for corporate logos, photos, and detailed artwork.",
+      "videoId": "",
+      "videoCaption": "",
+      "gallery": [
+        { "src": "/media/cat_logo.jpg", "alt": "Corporate and logo cookies", "caption": "CORPORATE & LOGO" },
+        { "src": "/media/cat_birthday.jpg", "alt": "Birthday and celebration cookies", "caption": "BIRTHDAY & CELEBRATION" },
+        { "src": "/media/cat_photo.jpg", "alt": "Custom edible photo cookies", "caption": "CUSTOM PHOTO PRINTS" }
+      ],
+      "ctaLabel": "REQUEST A QUOTE",
+      "blocks": []
+    },
+    "acting": {
+      "nav": "Occasions",
+      "eyebrow": "ANY EVENT",
+      "title": "FOR EVERY OCCASION",
+      "intro": "Big day or small gathering, there is a cookie for it. Tell me what you are celebrating and I will help you design something your guests will not want to eat, almost.",
+      "videoId": "",
+      "videoCaption": "",
+      "gallery": [
+        { "src": "/media/occ_wedding.jpg", "alt": "Wedding and shower cookies", "caption": "WEDDINGS & SHOWERS" },
+        { "src": "/media/occ_holiday.jpg", "alt": "Holiday cookies", "caption": "HOLIDAY FAVORITES" },
+        { "src": "/media/occ_team.jpg", "alt": "Sports and school spirit cookies", "caption": "SPORTS & SCHOOL" }
+      ],
+      "ctaLabel": "START AN ORDER",
+      "blocks": []
+    },
+    "content-creation": {
+      "nav": "Follow",
+      "eyebrow": "STAY CONNECTED",
+      "title": "FOLLOW ALONG",
+      "intro": "New designs drop on Instagram all the time, where more than 40,000 people follow along. Come see the latest cookies and behind the scenes.",
+      "videoId": "",
+      "videoCaption": "",
+      "gallery": [
+        { "src": "/media/follow_1.jpg", "alt": "Fresh cookie drops on Instagram", "caption": "FRESH DROPS" },
+        { "src": "/media/follow_2.jpg", "alt": "Order from anywhere, ships nationwide", "caption": "SHIPS NATIONWIDE" }
+      ],
+      "ctaLabel": "FOLLOW ON INSTAGRAM",
+      "blocks": []
+    },
+    "about": {
+      "nav": "About",
+      "eyebrow": "THE STORY",
+      "title": "ABOUT JILL",
+      "heroImage": "/media/about_banner.jpg",
+      "big": "Real custom.|Real cookies.|Made in Chicago.",
+      "paragraphs": [
+        "Hi, I am Jill. I make custom decorated cookies out of the Chicago area and ship them all over the country. What started as a love of baking has grown into a little community of more than 40,000 people who follow along.",
+        "These days I focus on printed cookies, which let me put crisp full color designs, logos, and photos right onto a fresh sugar cookie. If you can picture it, there is a good chance I can put it on a cookie. Tell me about your event and we will plan something special."
+      ],
+      "pills": [ "CORPORATE LOGOS", "PHOTO PRINTS", "CELEBRATIONS", "SHIPS NATIONWIDE" ],
+      "videoId": "",
+      "videoCaption": "",
+      "guide": {
+        "eyebrow": "READY WHEN YOU ARE",
+        "title": "ORDER FOR YOUR EVENT",
+        "body": "Planning a birthday, wedding, holiday, or company event? Send over the details and I will put together a quote. Custom orders do book up, so reach out early to lock in your date.",
+        "image": "/assets/order.jpg",
+        "ctaLabel": "Request a Quote",
+        "ctaHref": "https://ccbyjill.wufoo.com/forms/custom-cookies-by-jill/"
+      },
+      "partner": { "code": "", "text_pre": "", "text_rest": "", "ctaLabel": "", "ctaHref": "" },
+      "blocks": []
+    },
+    "contact": {
+      "nav": "Order",
+      "eyebrow": "GET IN TOUCH",
+      "title": "Let's bake something",
+      "intro": "The fastest way to start is the order form. Prefer email? Reach me any time and I will get right back to you with a quote.",
+      "connectEyebrow": "Find Me",
+      "blocks": []
+    }
+  },
+  "promoLinks": [],
+  "booking": {
+    "eyebrow": "START YOUR ORDER",
+    "title": "Request your custom cookies",
+    "intro": "Ready to design your cookies? Fill out the quick order form with your event details and I will follow up with a quote.",
+    "ctaLabel": "Request a Quote",
+    "url": "https://ccbyjill.wufoo.com/forms/custom-cookies-by-jill/",
+    "phone": "",
+    "note": "Prefer email? Reach Jill at customcookiesbyjill@gmail.com"
+  }
+}
