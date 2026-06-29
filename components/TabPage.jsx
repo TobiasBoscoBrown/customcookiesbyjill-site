@@ -55,7 +55,7 @@ export default async function TabPage({ pageKey }) {
         <div className="wrap">
           <h2 className="display"><Edit path={`${base}.ctaLabel`}>{p.ctaLabel || "Let's collab"}</Edit></h2>
           <div className="hero-actions" style={{ justifyContent: 'center', marginTop: 20 }}>
-            <EmailButton email={c.site.email} subject={`${p.title} inquiry`} className="btn btn-primary" label="Email Ben" />
+            <EmailButton email={c.site.email} subject={`${p.title} inquiry`} className="btn btn-primary" label="Email Jill" />
             <a href={c.social.instagram} target="_blank" rel="noopener" className="btn btn-ghost">DM on Instagram</a>
           </div>
         </div>
